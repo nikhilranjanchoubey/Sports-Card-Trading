@@ -11,7 +11,7 @@ plan:
         - contract-publish:
             contract-name: SportsCardTrading
             expected-sender: STB5N8Z399MF8Z9YTSY8D9KQGV58GNYGAWAWN07S
-            cost: 5180366
+            cost: 38920
             path: "contracts\\SportsCardTrading.clar"
             anchor-block-only: true
             clarity-version: 3
