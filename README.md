@@ -53,17 +53,9 @@ We envision a future where digital sports cards become the standard for collecti
 
 ## Contract Address Details
 
-**Contract Deployment Information:**
-- Network: Stacks Mainnet
-- Contract Address: [To be added after deployment]
-- Contract Name: sports-card-trading
-- Deployer Address: [To be added after deployment]
-- Deployment Block: [To be added after deployment]
-- Transaction ID: [To be added after deployment]
+  Contract ID: STB5N8Z399MF8Z9YTSY8D9KQGV58GNYGAWAWN07S.SportsCardTrading
+ ![alt text](image.png)
 
-**Testnet Information:**
-- Testnet Contract Address: [To be added after testnet deployment]
-- Testnet Deployer: [To be added after testnet deployment]
 
 **Key Functions:**
 - `mint-sports-card`: Creates new verified sports cards (Owner only)
