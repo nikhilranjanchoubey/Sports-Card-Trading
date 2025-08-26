@@ -52,8 +52,8 @@ We envision a future where digital sports cards become the standard for collecti
 - **Metaverse Integration**: Display and interact with cards in virtual worlds
 
 ## Contract Address Details
-
   Contract ID: STB5N8Z399MF8Z9YTSY8D9KQGV58GNYGAWAWN07S.SportsCardTrading
+
  ![alt text](image.png)
 
 
